@@ -32,3 +32,20 @@
 2015-01-27 12:12:00,564 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-01-27 12:12:00,566 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-01-27 12:12:00,568 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development Folder\GIT\bootcampOctober\BootcapTest\src\test\resources
+2015-01-27 12:22:54,695 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.activemq.test:ActiveMQTest:1.0 @ C:\Development Folder\GIT\bootcampOctober\ActiveMQTest\pom.xml.
+2015-01-27 12:22:55,737 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ActiveMQTest/src/main/java
+2015-01-27 12:22:55,737 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ActiveMQTest/src/main/resources
+2015-01-27 12:22:55,738 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ActiveMQTest/src/test/java
+2015-01-27 12:22:55,739 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ActiveMQTest/src/test/resources
+2015-01-27 12:22:56,089 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-01-27 12:22:56,717 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.activemq.test:ActiveMQTest:1.0 @ C:\Development Folder\GIT\bootcampOctober\ActiveMQTest\pom.xml.
+2015-01-27 12:22:57,095 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.activemq.test:ActiveMQTest:1.0 @ C:\Development Folder\GIT\bootcampOctober\ActiveMQTest\pom.xml.
+2015-01-27 12:22:59,491 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-27 12:22:59,492 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-27 12:22:59,494 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-27 12:22:59,496 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-27 12:23:00,686 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.activemq.test:ActiveMQTest:1.0 @ C:\Development Folder\GIT\bootcampOctober\ActiveMQTest\pom.xml.
+2015-01-27 12:23:01,785 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-27 12:23:01,787 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-01-27 12:23:01,789 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-01-27 12:23:01,790 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
