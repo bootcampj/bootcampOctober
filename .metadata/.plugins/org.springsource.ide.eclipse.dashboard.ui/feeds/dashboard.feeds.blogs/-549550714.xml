@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Spring</title>
+  <link rel="alternate" href="https://spring.io/blog" />
+  <link rel="self" href="https://spring.io/blog.atom" />
+  <id>http://spring.io/blog.atom</id>
+  <icon>https://spring.io/favicon.ico</icon>
+  <updated>2015-01-26T01:21:00Z</updated>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Groovy for System Administrators</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/26/springone2gx-2014-replay-groovy-for-system-administrators" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-09:1928</id>
+    <updated>2015-01-26T01:21:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speaker: Dan Woods, NetFlix &lt;/p&gt;
+&lt;p&gt;More Groovy Track &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/4pieter-springone2gx2014groovysysadmins"&gt;http://www.slideshare.net/SpringCentral/4pieter-springone2gx2014groovysysadmins &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Enterprise Operations is seeing a shift in the management paradigm of infrastructure, from the more-traditional server-centric design, to an approach that leverages the application stack as the custodian for administration. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&#xD;
+  &lt;iframe width="560" height="315" src="//www.youtube.com/embed/MzUvuQqVm14" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Fastest Servlets in the West?</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/26/springone2gx-2014-replay-fastest-servlets-in-the-west" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-09:1927</id>
+    <updated>2015-01-26T01:18:00Z</updated>
+    <content type="html">&lt;p&gt;Fastest Servlets in the West?&lt;br/&gt;&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Speakers: Stuart Willliams, Daniel Mikusa &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/williams-fastest-servlets-in-the-west"&gt;&lt;a href="http://www.slideshare.net/SpringCentral/williams-fastest-servlets-in-the-west"&gt;http://www.slideshare.net/SpringCentral/williams-fastest-servlets-in-the-west&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt; Applied Spring Track&lt;/p&gt;&lt;br/&gt;&lt;p&gt; The venerable Servlet Container still has some performance tricks up its sleeve - this talk will demonstrate Apache Tomcat&amp;rsquo;s stability under high load, describe some do&amp;rsquo;s (and some don&amp;rsquo;ts!), explain how to performance test a Servlet-based application, troubleshoot and tune the container and your application and compare the performance characteristics of the different Tomcat connectors. The presenters will share their combined experience supporting real Tomcat applications for over 20 years and show how a few small changes can make a big, big difference. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;br/&gt; &lt;iframe width="560" height="315" src="//www.youtube.com/embed/uMtYcWB7Z4s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Booting up Spring Social</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/26/springone2gx-2014-replay-booting-up-spring-social" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-09:1926</id>
+    <updated>2015-01-26T01:16:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speaker: Craig Walls &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/booting-up-spring-social"&gt;http://www.slideshare.net/SpringCentral/booting-up-spring-social&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Applied Spring Track &lt;/p&gt;
+&lt;p&gt;In recent years, people are using social networks like Facebook and Twitter to connect, meet, and share experiences and ideas. But it's not just people making connections; modern applications are also leveraging the APIs provided by the social networks to connect with their users and customers. It's hard to find applications these days that aren't somehow connected to their users via social APIs. Spring Social is an extension to the Spring Framework that enables you to create applications that connect with APIs. With it, your application can offer social login, learn about its users' interests, and inject itself into their social graph. In this session, we'll take a look at the latest that Spring Social has to offer, including integration with Spring Security, automatic reconnect, and a dramatically simpler configuration model using Spring Boot. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&#xD;
+  &lt;iframe width="560" height="315" src="//www.youtube.com/embed/FGksai2vCvA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Hadoop 201 -- Deeper into the Elephant</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/26/springone2gx-2014-replay-hadoop-201-deeper-into-the-elephant" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-09:1925</id>
+    <updated>2015-01-26T01:13:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speaker: Roman Shaposhnik &lt;/p&gt;
+&lt;p&gt;Big Data Track &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/hadoop-201-deeper-into-the-elephant"&gt;http://www.slideshare.net/SpringCentral/hadoop-201-deeper-into-the-elephant &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This session expands on the previous year's &amp;quot;Hadoop: Just the Basics for Big Data Rookies&amp;quot;, diving deeper into the details of key Apache Hadoop projects. We will start with a brief recap of HDFS and MapReduce, then discuss more advanced features of HDFS, in addition to how YARN has enabled businesses to massively scale their systems beyond what was previously possible. We will then discuss Apache HBase, the non-relational database modeled after Google's BIg table, review the data model, architecture, and common use cases. By the end of this session, you will learn how these three core Hadoop projects are used to solve even the most challenging Big Data problems.&#xD;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&#xD;
+  &lt;iframe width="560" height="315" src="//www.youtube.com/embed/IcuTdJgUFmo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>This Week in Spring - January 20th, 2015</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/this-week-in-spring-january-20th-2015" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2015-01-21:1941</id>
+    <updated>2015-01-20T19:14:00Z</updated>
+    <content type="html">&lt;p&gt;Welcome to another installment of &lt;em&gt;This Week in Spring&lt;/em&gt;! This week&amp;rsquo;s roundup could&amp;rsquo;ve just as easily been titled, &lt;em&gt;This Week in Spring Videos and Webinars&lt;/em&gt;, because we&amp;rsquo;ve got a &lt;em&gt;lot&lt;/em&gt; of them!&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;The good Dr. Dave Syer continues his series &lt;a href="https://spring.io/blog/2015/01/20/the-resource-server-angular-js-and-spring-security-part-iii"&gt;introducing Spring Security and Angular.js integration, this time looking at breaking apart the resource server from the authorization server&lt;/a&gt;. This post looks&lt;/li&gt;
+  &lt;li&gt;Our pal Nicoalas Frankel is back at it! Nicolas lives in both the &lt;a href="http://vaadin.com"&gt;Vaadin&lt;/a&gt; and the Spring communities. So, naturally, when Petter Holmström and I started the &lt;a href="https://github.com/peholmst/vaadin4spring"&gt;Vaadin4Spring project&lt;/a&gt; at the beginning of 2014, we weren&amp;rsquo;t surprised when Nicolas started making great contributions. His latest contribution introduces an elegant &lt;a href="http://blog.frankel.ch/improving-the-vaadin-4-spring-project-with-a-simpler-mvp"&gt;implementation of the MVP pattern for Vaadin and he&amp;rsquo;s written a very nice introduction to it&lt;/a&gt; - check it out!&lt;/li&gt;
+  &lt;li&gt;I&amp;rsquo;ll be speaking at the Oakland JUG on the 28th &lt;a href="http://www.meetup.com/eastbayjug/events/219652953/"&gt;on building microservices with Spring Cloud and Cloud Foundry&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Tadaya Tsuyukubo just announced the &lt;a href="https://github.com/ttddyy/spring-social-slideshare"&gt;first 1.0.0 release of the Spring Social Slideshare project&lt;/a&gt;. I haven&amp;rsquo;t had a chance to play with it yet, but it looks like it could scratch a few itches I&amp;rsquo;ve got! Nice work!&lt;/li&gt;
+  &lt;li&gt;I hope you&amp;rsquo;ll join me next month for &lt;a href="https://spring.io/blog/2015/01/20/webinar-introducing-spring-session"&gt;a webinar introducing the Spring Session project&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Speaking of Vaadin and Spring, I&amp;rsquo;ll be co-presenting this week at the GWT.create conference. &lt;a href="http://gwtcreate.com/#agenda-us_room1_event7"&gt;Our talk&lt;/a&gt; will look at controlling a Parrot AR Drone using a Vaadin-based HTML5 frontend and a Spring Boot-powered backend and drone client. Come join us, it&amp;rsquo;s sure to be fun!&lt;/li&gt;
+  &lt;li&gt;InfoQ did an interview with Spring Boot co-founder &lt;a href="http://www.infoq.com/news/2015/01/Spring-Boot-1.2.1-Released"&gt;Phil Webb on all the new features in Spring Boot 1.2.1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alexandre Lourenco put together a post demonstrating how easy it is to get a REST API up and running &lt;a href="http://java.dzone.com/articles/spring-boot-creating"&gt;with Spring Boot in this quick post on DZone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Be sure to check out Spring XD&amp;rsquo;s &lt;a href="https://spring.io/blog/2015/01/20/webinar-spring-xd-a-platform-for-data-at-scale-and-developer-productivity"&gt;Sabby Anandan in this webinar on Spring XD.next on February 17th&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The incomparable, amazing Andy Wilkinson will &lt;a href="https://spring.io/blog/2015/01/20/webinar-documenting-restful-apis"&gt;be talking about how to document REST APIs&lt;/a&gt; in a February 3rd webinar.&lt;/li&gt;
+  &lt;li&gt;I put together a post that introduces service registries like Consul and Eureka &lt;a href="https://spring.io/blog/2015/01/20/microservice-registration-and-discovery-with-spring-cloud-and-netflix-s-eureka"&gt;for more resilient service-to-service calls&lt;/a&gt; in a Spring Cloud-based system.&lt;/li&gt;
+  &lt;li&gt;Our pal Jakub Kubrynski has put together a &lt;em&gt;wonderful&lt;/em&gt; &lt;a href="http://www.dzone.com/links/r/including_java_agent_in_standalone_spring_boot_ap.html"&gt;post on including the NewRelic Java agent in a Spring Boot uber-jar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;In putting together the post on service discovery and registration with Spring Cloud, I stumbled upon &lt;a href="http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/"&gt;Jason Wilder&amp;rsquo;s fantastic look at service registries&lt;/a&gt; and really liked it, even though it doesn&amp;rsquo;t have anything to do with Spring, per se.&lt;/li&gt;
+  &lt;li&gt;Check out this replay of Rossen Stoyanchev&amp;rsquo;s SpringOne2GX 2014 talk &lt;a href="https://spring.io/blog/2015/01/20/springone2gx-2014-replay-spring-4-web-applications"&gt;introducing Spring 4&amp;rsquo;s support for web applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Check out this SpringOne2gx 2014 talk from Matthew Adams (SCI Spike) and Michael Nitschinger (Couchbase) on using &lt;a href="https://spring.io/blog/2015/01/20/springone2gx-2014-replay-cassandra-couchbase-and-spring-data-in-the-enterprise"&gt;Spring Data Cassandra and Spring Data Couchbase in the enterprise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Garrett Wampole&amp;rsquo;s &lt;a href="https://spring.io/blog/2015/01/20/springone2gx-2014-replay-applications-of-enterprise-integration-patterns-to-near-real-time-radar-data-processing"&gt;SpringOne2GX 2014 talk on enterprise integration patterns as applied to real-time data processing&lt;/a&gt; is worth a watch!&lt;/li&gt;
+  &lt;li&gt;Check out our pal and the Spanish Spring I/O conference&amp;rsquo;s organizer Sergi Almar&amp;rsquo;s &lt;a href="https://spring.io/blog/2015/01/20/springone2gx-2014-replay-deep-dive-into-spring-websockets"&gt;talk deep-diving into websockets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Speaking of super awesome Spaniards, &lt;a href="https://spring.io/blog/2015/01/19/spring-roo-1-3-1-rc2-available-now"&gt;the Disid team just announced Spring Roo 1.3.1 RC2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2015/01/19/spring-tool-suite-and-groovy-grails-tool-suite-3-6-3-sr1-released"&gt;Spring Tool Suite and Groovy Tool Suite lead Martin Lippert just announced the latest releases, 3.6.3 SR1&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;My pal Luke Shannon did a &lt;a href="https://spring.io/blog/2015/01/19/webinar-replay-building-scalable-data-applications-with-spring-and-gemfire"&gt;fantastic webinar introducing Spring Data Gemfire&lt;/a&gt;, a world-class integration for a world-class data-grid.&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2015/01/16/spring-batch-and-spring-batch-admin-releases"&gt;Spring Batch and Spring Batch Admin lead Michael Minella has just announced the latest release of both projects&lt;/a&gt;. The new Spring Batch revision includes support for JSR 352 custom infrastructures, polling for partitioned results, and more. The Spring Batch Admin revision integrates the latest and greatest in Spring Batch, including JSR 352 and Java configuration support. Check it out!&lt;/li&gt;
+  &lt;li&gt;Spring IO Platform lead Andy Wilkinson has announced &lt;a href="https://spring.io/blog/2015/01/15/spring-io-platform-1-1-1-released"&gt;Spring IO Platform 1.1.1, which includes the latest cuts of Spring AMQP, Boot, and Integration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spring Integration lead Gary Russell&amp;rsquo;s SpringOne2GX 2014 talk on Spring Integration&amp;rsquo;s new Java configuration support is &lt;em&gt;not to be missed&lt;/em&gt;!&lt;/li&gt;
+  &lt;li&gt;Check out Spring framework &lt;a href="https://spring.io/blog/2015/01/14/springone2gx-2014-replay-caching-and-messaging-improvements-in-spring-framework-4-1"&gt;lead Juergen Hoeller and Stephane Nicoll&amp;rsquo;s talk on caching and messaging improvements in Spring 4.1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The sleepless Spring Security lead Rob Winch&amp;rsquo;s &lt;a href="https://spring.io/blog/2015/01/14/springone2gx-2014-replay-from-0-to-spring-security-4-0"&gt;SpringOne2GX 2014 introduction talk on Spring Security is also available&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Spring framework lead Juergen Hoeller&amp;rsquo;s SpringOne2GX 2014 talk on Spring framework and Java 8 is not-to-be-missed primer for those looking at &lt;a href="https://spring.io/blog/2015/01/14/springone2gx-2014-replay-spring-framework-on-java-8"&gt;the next-gen Spring 4 and 4.1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Another nice post on using &lt;a href="http://devilspace.org/2015/01/19/data-insertion-in-to-tables-by-using-simplejdbcinsert-class-of-spring-framework/"&gt;&lt;code&gt;SimpleJdbcInsert&lt;/code&gt; to handle JDBC data insertion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alvin Henrick put together a nice post on using &lt;a href="http://alvinhenrick.com/2015/01/16/spring-boot-app-deployed-with-docker-and-data-only-container-pattern-explained/"&gt;Spring Boot and Docker together&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I found &lt;a href="http://hiteshtwo.org/asley/2015/01/20/spring-boot-with-groovy-and-external-libraries/"&gt;this interesting Q&amp;amp;A post on using Groovy with Spring Boot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alex Collins&amp;rsquo; post on using &lt;a href="http://www.alexecollins.com/elastic-search-in-a-box-with-docker/"&gt;Docker, Elastic Search, and Selenium to create a search-in-a-box&lt;/a&gt; is &lt;em&gt;epic&lt;/em&gt;! Check it out!&lt;/li&gt;
+  &lt;li&gt;This Japanese-language post on &lt;a href="http://backpaper0.github.io/2015/01/14/spring_boot_jersey.html"&gt;using the new Spring Boot 1.2.1&amp;rsquo;s Jersey support&lt;/a&gt; looked pretty good (via Google Translate!)&lt;/li&gt;
+  &lt;li&gt;Want to stand up services via Docker? Check out our pal &lt;a href="http://plainoldobjects.com/2015/01/14/need-to-install-mongodb-rabbitmq-or-mysql-use-docker-to-simplify-dev-and-test/"&gt;Chris Richardson&amp;rsquo;s post on standing up services via Docker&lt;/a&gt;! You could, for example, consume these services from another Docker-packaged Spring Boot application, or on Cloud Foundry.next (hitherto called &amp;ldquo;Diego&amp;rdquo;). &lt;a href="http://plainoldobjects.com/2015/01/14/need-to-install-mongodb-rabbitmq-or-mysql-use-docker-to-simplify-dev-and-test/"&gt;http://plainoldobjects.com/2015/01/14/need-to-install-mongodb-rabbitmq-or-mysql-use-docker-to-simplify-dev-and-test/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Are you following &lt;a href="http://www.thisweekincf.com/blog/2015/01/19/this-week-in-cloud-foundry-19th-january-2015/"&gt;&lt;em&gt;This Week in Cloud Foundry&lt;/em&gt;&lt;/a&gt;? Do! There&amp;rsquo;s so much good stuff there, as usual.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Webinars make up a lot of this week&amp;rsquo;s roundup. Nice work, &lt;a href="https://twitter.com/pieterhumphrey"&gt;Pieter Humphrey&lt;/a&gt;!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Webinar: Spring XD - A Platform for data at scale and developer productivity</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/webinar-spring-xd-a-platform-for-data-at-scale-and-developer-productivity" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-20:1940</id>
+    <updated>2015-01-20T13:35:00Z</updated>
+    <content type="html">&lt;p&gt;Speaker: Sabby Anandan &lt;/p&gt;
+&lt;p&gt;Worried about Big Data and the challenges inherent in making a real application? You don’t have to worry anymore! Spring XD provides a one-stop shop solution that spans traditional enterprise to Big Data use cases - both batch and streaming. It's important to choose the right tool for each use-case, which is why Spring XD integrates with technologies such as Spark, Reactor and RxJava to demonstrate the flexibility and the unified programming model to support complex data computation use-cases. In this webinar, we'll show you how to develop data-driven use cases much faster than other big data solutions on the out of the box XD runtime. &lt;/p&gt;&lt;p&gt;Tuesday, Feb 17th, 2015 3:00PM GMT (London GMT)&lt;a href="http://connect.pivotal.io/OSS_Webinar_7AMSpringXDAPlatformfordataatscaleanddeveloperproductivity_Register.html"&gt; Register&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Tuesday, Feb 17th, 2015 10:00AM PST (San Francisco GMT-08:00) &lt;a href="http://connect.pivotal.io/OSS_Webinar_10AMSpringXDAPlatformfordataatscaleanddeveloperproductivity_Register.html"&gt;Register&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Webinar: Introducing Spring Session</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/webinar-introducing-spring-session" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-20:1939</id>
+    <updated>2015-01-20T13:25:00Z</updated>
+    <content type="html">&lt;p&gt;Speaker: Josh Long, Pivotal &lt;/p&gt;
+&lt;p&gt;Back in the era of the application server, HTTP Session replication was a common way to scale out user session data, as well as make it fault tolerant. In today's world of lightweight containers, PaaS, and virtualization, Spring Session offers a 100% server and/or container portable HTTP Session. See how Spring Session easily plugs in implementations like Redis, scales out across a cluster, handles multiple users' browser sessions, works with WebSocket, and allows header based authentication within REST apps. It's a perfect fit for working with user data, particularly in a highly distributed environment like the cloud, or on a Platform like Cloud Foundry.&lt;/p&gt;&lt;p&gt;Tuesday, Feb 24th, 2015 3:00PM GMT (London GMT)&lt;a href="http://connect.pivotal.io/OSS_Webinar_7AMIntroducingSpringSession_Register.html"&gt; Register&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Tuesday, Feb 24th, 2015 10:00AM PST (San Francisco GMT-08:00) &lt;a href="http://connect.pivotal.io/OSS_Webinar_10AMIntroducingSpringSession_Register.html"&gt;Register&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Webinar: Documenting RESTful APIs</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/webinar-documenting-restful-apis" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-20:1938</id>
+    <updated>2015-01-20T13:23:00Z</updated>
+    <content type="html">&lt;p&gt;Speaker: Andy Wilkinson, Pivotal &lt;/p&gt;
+&lt;p&gt;An API's documentation is a vital part of making it easy to understand and easy to use. RESTful APIs are no different. In this webinar we'll look at what should be included in your RESTful API's documentation and, just as importantly, what should be omitted. To illustrate this we'll look at some real-world examples of good and bad API documentation. We'll look at some of the problems and limitations of choosing a tool like Swagger to produce your API's documentation and conclude by looking at some alternatives that are better-suited to producing documentation that your users will love. &lt;/p&gt;&lt;p&gt;Tuesday, Feb 3rd, 2015 3:00PM GMT (London GMT)&lt;a href="http://connect.pivotal.io/7AMDocumentingRESTfulAPIs_Register.html"&gt; Register&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Tuesday, Feb 3rd, 2015 10:00AM PST (San Francisco GMT-08:00) &lt;a href="http://connect.pivotal.io/10AMDocumentingRESTfulAPIs_Register.html"&gt;Register&lt;/a&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The Resource Server: Angular JS and Spring Security Part III</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/the-resource-server-angular-js-and-spring-security-part-iii" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Dave Syer</name>
+    </author>
+    <id>tag:spring.io,2015-01-05:1905</id>
+    <updated>2015-01-20T09:54:00Z</updated>
+    <content type="html">&lt;p&gt;In this article we continue &lt;a href="http://spring.io/blog/2015/01/12/the-login-page-angular-js-and-spring-security-part-ii" title="Second Article in the Series"&gt;our discussion&lt;/a&gt; of how to use &lt;a href="http://projects.spring.io/spring-security"&gt;Spring Security&lt;/a&gt; with &lt;a href="http://angularjs.org"&gt;Angular JS&lt;/a&gt; in a &amp;ldquo;single page application&amp;rdquo;. Here we start by breaking out the &amp;ldquo;greeting&amp;rdquo; resource that we are using as the dynamic content in our application into a separate server, first as an unprotected resource, and then protected by an opaque token. This is the third in a series of articles, and you can catch up on the basic building blocks of the application or build it from scratch by reading the &lt;a href="http://spring.io/blog/2015/01/12/spring-and-angular-js-a-secure-single-page-application" title="First Article in the Series"&gt;first article&lt;/a&gt;, or you can just go straight to the source code in Github, which is in two parts: one where the &lt;a href="https://github.com/dsyer/spring-security-angular/tree/master/vanilla"&gt;resource is unprotected&lt;/a&gt;, and one where it is &lt;a href="https://github.com/dsyer/spring-security-angular/tree/master/spring-session"&gt;protected by a token&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Reminder: if you are working through this article with the sample application, be sure to clear your browser cache of cookies and HTTP Basic credentials. In Chrome the best way to do that for a single server is to open a new incognito window.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#a-separate-resource-server" class="anchor" name="a-separate-resource-server"&gt;&lt;/a&gt;A Separate Resource Server&lt;/h2&gt;&lt;h3&gt;&lt;a href="#client-side-changes" class="anchor" name="client-side-changes"&gt;&lt;/a&gt;Client Side Changes&lt;/h3&gt;&lt;p&gt;On the client side there isn&amp;rsquo;t very much to do to move the resource to a different backend. Here&amp;rsquo;s the &amp;ldquo;home&amp;rdquo; controller in the &lt;a href="https://github.com/dsyer/spring-security-angular/blob/master/single/src/main/resources/static/js/hello.js"&gt;last article&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint javascript"&gt;angular.module(&amp;#39;hello&amp;#39;, [ &amp;#39;ngRoute&amp;#39; ])&#xD;
+...&#xD;
+.controller(&amp;#39;home&amp;#39;, function($scope, $http) {&#xD;
+	$http.get(&amp;#39;/resource/&amp;#39;).success(function(data) {&#xD;
+		$scope.greeting = data;&#xD;
+	})&#xD;
+})&#xD;
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;All we need to do to this is change the URL. For example, if we are going to run the new resource on localhost, it could look like this:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint javascript"&gt;angular.module(&amp;#39;hello&amp;#39;, [ &amp;#39;ngRoute&amp;#39; ])&#xD;
+...&#xD;
+.controller(&amp;#39;home&amp;#39;, function($scope, $http) {&#xD;
+	$http.get(&amp;#39;http://localhost:9000/&amp;#39;).success(function(data) {&#xD;
+		$scope.greeting = data;&#xD;
+	})&#xD;
+})&#xD;
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;h3&gt;&lt;a href="#server-side-changes" class="anchor" name="server-side-changes"&gt;&lt;/a&gt;Server Side Changes&lt;/h3&gt;&lt;p&gt;The &lt;a href="https://github.com/dsyer/spring-security-angular/blob/master/vanilla/ui/src/main/java/demo/UiApplication.java"&gt;UI server&lt;/a&gt; is trivial to change: we just need to remove the &lt;code&gt;@RequestMapping&lt;/code&gt; for the greeting resource (it was &amp;ldquo;/resource&amp;rdquo;). Then we need to create a new resource server, which we can do like we did in the &lt;a href="http://spring.io/blog/2015/01/12/spring-and-angular-js-a-secure-single-page-application" title="First Article in the Series"&gt;first article&lt;/a&gt; using the &lt;a href="https://start.spring.io"&gt;Spring Boot Initializr&lt;/a&gt;. E.g. using curl on a UN*X like system:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint"&gt;$ mkdir resource &amp;amp;&amp;amp; cd resource&#xD;
+$ curl https://start.spring.io/starter.tgz -d style=web \&#xD;
+-d name=resource -d language=groovy | tar -xzvf - 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can then import that project (it&amp;rsquo;s a normal Maven Java project by default) into your favourite IDE, or just work with the files and &amp;ldquo;mvn&amp;rdquo; on the command line. We are using Groovy because we can, but please feel free to use Java if you prefer. There isn&amp;rsquo;t going to be much code anyway.&lt;/p&gt;&lt;p&gt;Just add a &lt;code&gt;@RequestMapping&lt;/code&gt; to the &lt;a href="https://github.com/dsyer/spring-security-angular/blob/master/vanilla/resource/src/main/groovy/demo/ResourceApplication.groovy"&gt;main application class&lt;/a&gt;, copying the implementation from the &lt;a href="https://github.com/dsyer/spring-security-angular/blob/master/single/src/main/java/demo/UiApplication.java"&gt;old UI&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;@SpringBootApplication&#xD;
+@RestController&#xD;
+class ResourceApplication {&#xD;
+	&#xD;
+	@RequestMapping(&amp;#39;/&amp;#39;)&#xD;
+	def home() {&#xD;
+		[id: UUID.randomUUID().toString(), content: &amp;#39;Hello World&amp;#39;]&#xD;
+	}&#xD;
+&#xD;
+    static void main(String[] args) {&#xD;
+        SpringApplication.run ResourceApplication, args&#xD;
+    }&#xD;
+&#xD;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once that is done your application will be loadable in a browser. On the command line you can do this&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint"&gt;$ mvn spring-boot:run --server.port=9000
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;and go to a browser at &lt;a href="http://localhost:9000"&gt;http://localhost:9000&lt;/a&gt; and you should see JSON with a greeting. You can bake in the port change in &lt;code&gt;application.properties&lt;/code&gt; (in&amp;ldquo;src/main/resources&amp;rdquo;):&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint properties"&gt;server.port: 9000
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;If you try loading that resource from the UI (on port 8080) in a browser, you will find that it doesn&amp;rsquo;t work because the browser won&amp;rsquo;t allow the XHR request.&lt;/p&gt;&lt;h2&gt;&lt;a href="#cors-negotiation" class="anchor" name="cors-negotiation"&gt;&lt;/a&gt;CORS Negotiation&lt;/h2&gt;&lt;p&gt;The browser tries to negotiate with our resource server to find out if it is allowed to access it according to the &lt;a href="http://en.wikipedia.org/wiki/Cross-origin_resource_sharing"&gt;Common Origin Resource Sharing&lt;/a&gt; protocol. It&amp;rsquo;s not an Angular JS responsibility, so just like the cookie contract it will work like this with all JavaScript in the browser. The two servers do not declare that they have a common origin, so the browser declines to send the request and the UI is broken.&lt;/p&gt;&lt;p&gt;To fix that we need to support the CORS protocol which involves a &amp;ldquo;pre-flight&amp;rdquo; OPTIONS request and some headers to list the allowed behaviour of the caller. Spring 4.2 might have some nice &lt;a href="https://jira.spring.io/browse/SPR-9278"&gt;fine-grained CORS support&lt;/a&gt;, but until that is released we can do an adequate job for the purposes of this application by sending the same CORS responses to all requests using a &lt;code&gt;Filter&lt;/code&gt;. We can just create a class in the same directory as the resource server application and make sure it is a &lt;code&gt;@Component&lt;/code&gt; (so it gets scanned into the Spring application context), for example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;@Component&#xD;
+@Order(Ordered.HIGHEST_PRECEDENCE)&#xD;
+class CorsFilter implements Filter {&#xD;
+&#xD;
+	void doFilter(ServletRequest req, ServletResponse res, FilterChain chain) {&#xD;
+		HttpServletResponse response = (HttpServletResponse) res&#xD;
+		response.setHeader(&amp;quot;Access-Control-Allow-Origin&amp;quot;, &amp;quot;*&amp;quot;)&#xD;
+		response.setHeader(&amp;quot;Access-Control-Allow-Methods&amp;quot;, &amp;quot;POST, PUT, GET, OPTIONS, DELETE&amp;quot;)&#xD;
+		response.setHeader(&amp;quot;Access-Control-Max-Age&amp;quot;, &amp;quot;3600&amp;quot;)&#xD;
+		if (request.getMethod()!=&amp;#39;OPTIONS&amp;#39;) {&#xD;
+			chain.doFilter(req, res)&#xD;
+		} else {&#xD;
+		}&#xD;
+	}&#xD;
+&#xD;
+	void init(FilterConfig filterConfig) {}&#xD;
+&#xD;
+	void destroy() {}&#xD;
+&#xD;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The &lt;code&gt;Filter&lt;/code&gt; is defined with an &lt;code&gt;@Order&lt;/code&gt; so that it is definitely applied &lt;em&gt;before&lt;/em&gt; the main Spring Security filter. With that change to the resource server, we should be able to re-launch it and get our greeting in the UI.&lt;/p&gt;&lt;h2&gt;&lt;a href="#securing-the-resource-server" class="anchor" name="securing-the-resource-server"&gt;&lt;/a&gt;Securing the Resource Server&lt;/h2&gt;&lt;p&gt;Great! We have a working application with a new architecture. The only problem is that the resource server has no security.&lt;/p&gt;&lt;h3&gt;&lt;a href="#adding-spring-security" class="anchor" name="adding-spring-security"&gt;&lt;/a&gt;Adding Spring Security&lt;/h3&gt;&lt;p&gt;We can also look at how to add security to the resource server as a filter layer, like in the UI server. This is perhaps more conventional, and is certainly the best option in most PaaS environments (since they don&amp;rsquo;t usually make private networks available to applications). The first step is really easy: just add Spring Security to the classpath in the Maven POM:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint xml"&gt;&amp;lt;dependencies&amp;gt;&#xD;
+  &amp;lt;dependency&amp;gt;&#xD;
+    &amp;lt;groupId&amp;gt;org.springframework.boot&amp;lt;/groupId&amp;gt;&#xD;
+    &amp;lt;artifactId&amp;gt;spring-boot-starter-security&amp;lt;/artifactId&amp;gt;&#xD;
+  &amp;lt;/dependency&amp;gt;&#xD;
+  ...&#xD;
+&amp;lt;/dependencies&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Re-launch the resource server and, hey presto! It&amp;rsquo;s secure:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint"&gt;$ curl -v localhost:9000&#xD;
+&amp;lt; HTTP/1.1 401 Unauthorized&#xD;
+&amp;lt; WWW-Authenticate: Basic realm=&amp;quot;Spring&amp;quot;&#xD;
+...&#xD;
+{&amp;quot;timestamp&amp;quot;:1420544006458,&amp;quot;status&amp;quot;:401,&amp;quot;error&amp;quot;:&amp;quot;Unauthorized&amp;quot;,&amp;quot;message&amp;quot;:&amp;quot;Full authentication is required to access this resource&amp;quot;,&amp;quot;path&amp;quot;:&amp;quot;/&amp;quot;}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;So all we need to do is teach the client to send credentials with every request.&lt;/p&gt;&lt;h2&gt;&lt;a href="#token-authentication" class="anchor" name="token-authentication"&gt;&lt;/a&gt;Token Authentication&lt;/h2&gt;&lt;p&gt;The internet, and people&amp;rsquo;s Spring backend projects, are littered with custom token-based authentication solutions. Spring Security provides a barebones &lt;code&gt;Filter&lt;/code&gt; implementation to get you started on your own (see for example &lt;a href="https://github.com/spring-projects/spring-security/blob/master/web/src/main/java/org/springframework/security/web/authentication/preauth/AbstractPreAuthenticatedProcessingFilter.java"&gt;&lt;code&gt;AbstractPreAuthenticatedProcessingFilter&lt;/code&gt;&lt;/a&gt; and &lt;a href="https://github.com/spring-projects/spring-security/blob/master/core/src/main/java/org/springframework/security/core/token/TokenService.java"&gt;&lt;code&gt;TokenService&lt;/code&gt;&lt;/a&gt;). There is no canonical implementation in Spring Security though, and one of the reasons why is probably that there&amp;rsquo;s an easier way.&lt;/p&gt;&lt;p&gt;Remember from &lt;a href="http://spring.io/blog/2015/01/12/the-login-page-angular-js-and-spring-security-part-ii" title="Second Article in the Series"&gt;Part II&lt;/a&gt; of this series that Spring Security uses the &lt;code&gt;HttpSession&lt;/code&gt; to store authentication data by default. It doesn&amp;rsquo;t interact directly with the session though: there&amp;rsquo;s an abstraction layer (&lt;a href="https://github.com/spring-projects/spring-security/blob/master/web/src/main/java/org/springframework/security/web/context/SecurityContextRepository.java"&gt;&lt;code&gt;SecurityContextRepository&lt;/code&gt;&lt;/a&gt;) in between that you can use to change the storage backend. If we can point that repository, in our resource server, to a store with an authentication verified by our UI, then we have a way to share authentication between the two servers. The UI server already has such a store (the &lt;code&gt;HttpSession&lt;/code&gt;), so if we can distribute that store and open it up to the resource server, we have most of a solution.&lt;/p&gt;&lt;h3&gt;&lt;a href="#spring-session" class="anchor" name="spring-session"&gt;&lt;/a&gt;Spring Session&lt;/h3&gt;&lt;p&gt;That part of the solution is pretty easy with &lt;a href="https://github.com/spring-projects/spring-session/"&gt;Spring Session&lt;/a&gt;. All we need is a shared data store (Redis is supported out of the box), and a few lines of configuration in the servers to set up a &lt;code&gt;Filter&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;In the UI application we need to add some dependencies to our &lt;a href="https://github.com/dsyer/spring-security-angular/blob/master/spring-session/ui/pom.xml"&gt;POM&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint xml"&gt;&amp;lt;dependency&amp;gt;&#xD;
+  &amp;lt;groupId&amp;gt;org.springframework.session&amp;lt;/groupId&amp;gt;&#xD;
+  &amp;lt;artifactId&amp;gt;spring-session&amp;lt;/artifactId&amp;gt;&#xD;
+  &amp;lt;version&amp;gt;1.0.0.RELEASE&amp;lt;/version&amp;gt;&#xD;
+&amp;lt;/dependency&amp;gt;&#xD;
+&amp;lt;dependency&amp;gt;&#xD;
+  &amp;lt;groupId&amp;gt;org.springframework.boot&amp;lt;/groupId&amp;gt;&#xD;
+  &amp;lt;artifactId&amp;gt;spring-boot-starter-redis&amp;lt;/artifactId&amp;gt;&#xD;
+&amp;lt;/dependency&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;and then add the &lt;code&gt;Filter&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;@SpringBootApplication&#xD;
+@RestController&#xD;
+@EnableRedisHttpSession&#xD;
+public class UiApplication {&#xD;
+&#xD;
+  public static void main(String[] args) {&#xD;
+    SpringApplication.run(UiApplication.class, args);&#xD;
+  }&#xD;
+&#xD;
+  ...&#xD;
+&#xD;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The &lt;code&gt;@EnableRedisHttpSession&lt;/code&gt; is provided by Spring Session, and Spring Boot supplies a redis connection (a URL and credentials can be configured using environment variables or configuration files).&lt;/p&gt;&lt;p&gt;With that 1 line of code in place and a Redis server running on localhost you can run the UI application, login with some valid user credentials, and the session data (the authentication and CSRF token) will be stored in redis.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Tip: if you don&amp;rsquo;t have a redis server running locally you can easily spin one up with &lt;a href="https://www.docker.com/"&gt;Docker&lt;/a&gt; (on Windows or MacOS this requires a VM). There is a &lt;a href="http://www.fig.sh/"&gt;&lt;code&gt;fig.yml&lt;/code&gt;&lt;/a&gt; file in the &lt;a href="https://github.com/dsyer/spring-security-angular/tree/master/spring-session/fig.yml"&gt;source code in Github&lt;/a&gt; which you can run really easily on the command line with &lt;code&gt;fig up&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;&lt;h2&gt;&lt;a href="#sending-a-custom-token-from-the-ui" class="anchor" name="sending-a-custom-token-from-the-ui"&gt;&lt;/a&gt;Sending a Custom Token from the UI&lt;/h2&gt;&lt;p&gt;The only missing piece is the transport mechanism for the key to the data in the store. The key is the &lt;code&gt;HttpSession&lt;/code&gt; ID, so if we can get hold of that key in the UI client, we can send it as a custom header to the resource server. So the &amp;ldquo;home&amp;rdquo; controller would need to change so that it sends the header as part of the HTTP request for the greeting resource. For example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint javascript"&gt;angular.module(&amp;#39;hello&amp;#39;, [ &amp;#39;ngRoute&amp;#39; ])&#xD;
+...&#xD;
+.controller(&amp;#39;home&amp;#39;, function($scope, $http) {&#xD;
+	$http.get(&amp;#39;token&amp;#39;).success(function(token) {&#xD;
+		$http({&#xD;
+			url : &amp;#39;http://localhost:9000&amp;#39;,&#xD;
+			method : &amp;#39;GET&amp;#39;,&#xD;
+			headers : {&#xD;
+				&amp;#39;X-Auth-Token&amp;#39; : token.token&#xD;
+			}&#xD;
+		}).success(function(data) {&#xD;
+			$scope.greeting = data;&#xD;
+		});&#xD;
+	})&#xD;
+});
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;(A more elegant solution might be to grab the token as needed, and use an Angular &lt;a href="https://docs.angularjs.org/api/ng/service/$http"&gt;interceptor&lt;/a&gt; to add the header to every request to the resource server. The interceptor definition could then be abstracted instead of doing it all in one place and cluttering up the business logic.)&lt;/p&gt;&lt;p&gt;Instead of going directly to &amp;ldquo;&lt;a href="http://localhost:9000"&gt;http://localhost:9000&lt;/a&gt;&amp;rdquo; we have wrapped that call in the success callback of a call to a new custom endpoint on the UI server at &amp;ldquo;/token&amp;rdquo;. The implementation of that is trivial:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;@SpringBootApplication&#xD;
+@RestController&#xD;
+@EnableRedisHttpSession&#xD;
+public class UiApplication {&#xD;
+&#xD;
+  public static void main(String[] args) {&#xD;
+    SpringApplication.run(UiApplication.class, args);&#xD;
+  }&#xD;
+&#xD;
+  ...&#xD;
+&#xD;
+  @RequestMapping(&amp;quot;/token&amp;quot;)&#xD;
+  @ResponseBody&#xD;
+  public Map&amp;lt;String,String&amp;gt; token(HttpSession session) {&#xD;
+    return Collections.singletonMap(&amp;quot;token&amp;quot;, session.getId());&#xD;
+  }&#xD;
+&#xD;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;So the UI application is ready and will include the session ID in a header called &amp;ldquo;X-Auth-Token&amp;rdquo; for all calls to the backend.&lt;/p&gt;&lt;h2&gt;&lt;a href="#authentication-in-the-resource-server" class="anchor" name="authentication-in-the-resource-server"&gt;&lt;/a&gt;Authentication in the Resource Server&lt;/h2&gt;&lt;p&gt;There is one tiny change to the resource server for it to be able to accept the custom header. The CORS filter has to nominate that header as an allowed one from remote clients, e.g.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;@Component&#xD;
+@Order(Ordered.HIGHEST_PRECEDENCE)&#xD;
+public class CorsFilter implements Filter {&#xD;
+&#xD;
+  void doFilter(ServletRequest req, ServletResponse res, FilterChain chain) throws IOException, ServletException {&#xD;
+    ...&#xD;
+    response.setHeader(&amp;quot;Access-Control-Allow-Headers&amp;quot;, &amp;quot;x-auth-token&amp;quot;)&#xD;
+    ...&#xD;
+  }&#xD;
+&#xD;
+  ...&#xD;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;All that remains is to pick up the custom token in the resource server and use it to authenticate our user. This turns out to be pretty straightforward because all we need to do is tell Spring Security where the session repository is, and where to look for the token (session ID) in an incoming request. First we need to add the Spring Session and Redis dependencies, and then we can set up the &lt;code&gt;Filter&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;@SpringBootApplication&#xD;
+@RestController&#xD;
+@EnableRedisHttpSession&#xD;
+class ResourceApplication {&#xD;
+&#xD;
+  ...&#xD;
+  &#xD;
+  @Bean&#xD;
+  HeaderHttpSessionStrategy sessionStrategy() {&#xD;
+    new HeaderHttpSessionStrategy();&#xD;
+  }&#xD;
+&#xD;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This &lt;code&gt;Filter&lt;/code&gt; created is the mirror image of the one in the UI server, so it establishes Redis as the session store. The only difference is that it uses a custom &lt;code&gt;HttpSessionStrategy&lt;/code&gt; that looks in the header (&amp;ldquo;X-Auth-Token&amp;rdquo; by default) instead of the default (cookie named &amp;ldquo;JSESSIONID&amp;rdquo;). &lt;/p&gt;&lt;p&gt;There is one final change to the resource server to make it work with our new authentication scheme. Spring Boot default security is stateless, and we want this to store authentication in the session, so we need to be explicit in &lt;code&gt;application.yml&lt;/code&gt; (or &lt;code&gt;application.properties&lt;/code&gt;):&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint yaml"&gt;security:&#xD;
+  sessions: NEVER
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This says to Spring Security &amp;ldquo;never create a session, but use one if it is there&amp;rdquo; (it will be already be there because of the authentication in the UI).&lt;/p&gt;&lt;p&gt;Re-launch the resource server and open the UI up in a new browser window.&lt;/p&gt;&lt;h2&gt;&lt;a href="#why-doesn-rsquo-t-it-all-work-with-cookies" class="anchor" name="why-doesn-rsquo-t-it-all-work-with-cookies"&gt;&lt;/a&gt;Why Doesn&amp;rsquo;t it All Work With Cookies?&lt;/h2&gt;&lt;p&gt;We had to use a custom header and write code in the client to populate the header, which isn&amp;rsquo;t terribly complicated, but it seems to contradict the advice in &lt;a href="http://spring.io/blog/2015/01/12/the-login-page-angular-js-and-spring-security-part-ii" title="Second Article in the Series"&gt;Part II&lt;/a&gt; to use cookies and sessions wherever possible. The argument there was that not to do so introduces additional unecessary complexity, and for sure the implementation we have now is the most complex we have seen so far: the technical part of the solution far outweighs the business logic (which is admittedly tiny). This is definitely a fair criticism (and one we plan to address in the next article in this series), but let&amp;rsquo;s just briefly look at why it&amp;rsquo;s not as simple as just using cookies and sessions for everything.&lt;/p&gt;&lt;p&gt;At least we are still using the session, which makes sense because Spring Security and the Servlet container know how to do that with no effort on our part. But couldn&amp;rsquo;t we have continued to use cookies to transport the authentication token? It would have been nice, but there is a reason it wouldn&amp;rsquo;t work, and that is that the browser wouldn&amp;rsquo;t let us. You can just go poking around in the browser&amp;rsquo;s cookie store from a JavaScript client, but there are some restrictions, and for good reason. In particular you don&amp;rsquo;t have access to the cookies that were sent by the server as &amp;ldquo;HttpOnly&amp;rdquo; (which you will see is the case by default for session cookies). You also can&amp;rsquo;t set cookies in outgoing requests, so we couldn&amp;rsquo;t set a &amp;ldquo;SESSION&amp;rdquo; cookie (which is the Spring Session default cookie name), we had to use a custom &amp;ldquo;X-Session&amp;rdquo; header. Both these restrictions are for your own protection so malicious scripts cannot access your resources without proper authorization.&lt;/p&gt;&lt;p&gt;TL;DR the UI and resource servers do not have a common origin, so they cannot share cookies (even though we can use Spring Session to force them to share sessions).&lt;/p&gt;&lt;h2&gt;&lt;a href="#conclusion" class="anchor" name="conclusion"&gt;&lt;/a&gt;Conclusion&lt;/h2&gt;&lt;p&gt;We have duplicated the features of the application in &lt;a href="http://spring.io/blog/2015/01/12/the-login-page-angular-js-and-spring-security-part-ii" title="Second Article in the Series"&gt;Part II of this series&lt;/a&gt;: a home page with a greeting fetched from a remote backend, with login and logout links in a navigation bar. The difference is that the greeting comes from a resource server that is a standalone, instead of being embedded in the UI server. This added significant complexity to the implementation, but the good news is that we have a mostly configuration-based (and practically 100% declarative) solution. We could even make the solution 100% declarative by extracting all the new code into libraries (Spring configuration and Angular custom directives). We are going to defer that interesting task for after the next couple of installments. In the next article we are going to look at a different really great way to reduce all the complexity in the current implementation: the API Gateway Pattern (the client sends all its requests to one place and authentication is handled there).&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Note: we used Spring Session here to share sessions between 2 servers that are not logically the same the same application. It&amp;rsquo;s a neat trick, and it isn&amp;rsquo;t possible with &amp;ldquo;regular&amp;rdquo; JEE distributed sessions.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+  </entry>
+  <entry>
+    <title>Microservice  Registration and Discovery with Spring Cloud and Netflix's Eureka</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/microservice-registration-and-discovery-with-spring-cloud-and-netflix-s-eureka" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2015-01-18:1934</id>
+    <updated>2015-01-20T09:00:00Z</updated>
+    <content type="html">&lt;p&gt;The microservice style of architecture is not so much about building individual services so much as it is making the &lt;em&gt;interactions between&lt;/em&gt; services reliable and failure-tolerant. While the focus on these interactions is new, the need for that focus is not. We&amp;rsquo;ve long known that services don&amp;rsquo;t operate in a vacuum. Even before cloud economics, we knew that - in a practical world - clients should be designed to be immune to service outages. The cloud makes it easy to think of capacity as ephemeral, fluid. The burden is on the client to manage this intrinsic complexity.&lt;/p&gt;&lt;p&gt;In this post, we&amp;rsquo;ll look at how &lt;a href="http://cloud.spring.io"&gt;Spring Cloud&lt;/a&gt; helps you manage that complexity with a service registry like Eureka and Consul and client-side load-balancing.&lt;/p&gt;&lt;h2&gt;&lt;a href="#the-cloud-rsquo-s-phone-book" class="anchor" name="the-cloud-rsquo-s-phone-book"&gt;&lt;/a&gt;The Cloud&amp;rsquo;s Phone Book&lt;/h2&gt;&lt;p&gt;A service registry is a phone book for your microservices. Each service registers itself with the service registry and tells the registry where it lives (host, port, node name) and perhaps other service-specific metadata - things that other services can use to make informed decisions about it. Clients can ask questions about the service topology (&amp;ldquo;are there any &amp;lsquo;fulfillment-services&amp;rsquo; available, and if so, where?&amp;rdquo;) and service capabilities (&amp;ldquo;can you handle X, Y, and Z?&amp;rdquo;). You probably already use a technology that has some notion of a cluster (Cassandra, Memcached, etc.), and that information is ideally stored in a service registry.&lt;/p&gt;&lt;p&gt;There &lt;a href="http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/"&gt;are several popular options for service registries&lt;/a&gt;. Netflix built and then open-sourced their own service registry, &lt;a href="https://github.com/netflix/eureka"&gt;Eureka&lt;/a&gt;. Another new, but increasingly popular option is &lt;a href="http://consul.io"&gt;Consul&lt;/a&gt;. We&amp;rsquo;ll look principally at some of the integration between Spring Cloud and Netflix&amp;rsquo;s Eureka service registry.&lt;/p&gt;&lt;p&gt;From the &lt;a href="http://projects.spring.io/spring-cloud/"&gt;the Spring Cloud project page&lt;/a&gt;: &amp;ldquo;Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems (e.g. configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, one-time tokens, global locks, leadership election, distributed sessions, cluster state). Coordination of distributed systems leads to boiler plate patterns, and using Spring Cloud developers can quickly stand up services and applications that implement those patterns. They will work well in any distributed environment, including the developer&amp;rsquo;s own laptop, bare metal data centres, and managed platforms such as Cloud Foundry.&amp;rdquo;&lt;/p&gt;&lt;p&gt;Spring Cloud already supports both Eureka and Consul, though I&amp;rsquo;ll focus on Eureka in this post because it can be bootstrapped automatically in one of Spring Cloud&amp;rsquo;s auto-configurations. Eureka is implemented on the JVM but Consul is implemented in Go.&lt;/p&gt;&lt;h2&gt;&lt;a href="#installing-eureka" class="anchor" name="installing-eureka"&gt;&lt;/a&gt;Installing Eureka&lt;/h2&gt;&lt;p&gt;Standing up an instance of the Eureka service registry is easy if you have &lt;code&gt;org.springframework.boot:spring-cloud-starter-eureka-server&lt;/code&gt; on your classpath.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;package registry;&#xD;
+&#xD;
+import org.springframework.boot.SpringApplication;&#xD;
+import org.springframework.boot.autoconfigure.SpringBootApplication;&#xD;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;&#xD;
+&#xD;
+@SpringBootApplication&#xD;
+@EnableEurekaServer&#xD;
+public class Application {&#xD;
+&#xD;
+  public static void main(String[] args) {&#xD;
+    SpringApplication.run(Application.class, args);&#xD;
+  }&#xD;
+}&#xD;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;My nominal &lt;code&gt;src/main/resources/application.yml&lt;/code&gt; looks like this these days.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint yml"&gt;server:&#xD;
+  port: ${PORT:8761}&#xD;
+&#xD;
+eureka:&#xD;
+  client:&#xD;
+    registerWithEureka: false&#xD;
+    fetchRegistry: false&#xD;
+    server:&#xD;
+      waitTimeInMsWhenSyncEmpty: 0&#xD;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The service&amp;rsquo;s port is defaulted to the well-known 8761 if &lt;a href="http://cloudfoundry.org/index.html"&gt;Cloud Foundry&lt;/a&gt;&amp;rsquo;s &lt;code&gt;VCAP_APPLICATION_PORT&lt;/code&gt; environment variable isn&amp;rsquo;t available. The rest of the configuration simply tells this instance to not register itself with the Eureka instance it finds, because that instance is.. itself. If you run it locally, you can point a browser to &lt;code&gt;http://localhost:8761&lt;/code&gt; and monitor the registry from there.&lt;/p&gt;&lt;h2&gt;&lt;a href="#deploying-eureka" class="anchor" name="deploying-eureka"&gt;&lt;/a&gt;Deploying Eureka&lt;/h2&gt;&lt;p&gt;Spring Cloud will startup a &lt;a href="http://projects.spring.io/spring-cloud/spring-cloud.html#spring-cloud-eureka-server"&gt; Eureka instance with its Spring Boot auto-configuration&lt;/a&gt;. There are a couple of things to consider when deploying Eureka. First, you should &lt;em&gt;always&lt;/em&gt; use a highly-available configuration in production. &lt;a href="https://github.com/spring-cloud-samples/eureka"&gt;The Spring Cloud Eureka sample&lt;/a&gt; shows how to deploy it in a highly-available configuration.&lt;/p&gt;&lt;p&gt;Clients need to know where to find the Eureka instance. If you have DNS then that might be one option, if you&amp;rsquo;re not polluting too large a global namespace. If you&amp;rsquo;re &lt;a href="http://12factor.net/"&gt;running in a Platform-as-a-Service and embracing 12-Factor app style applications&lt;/a&gt; then backing service credentials are configuration, and live external to the application, often exposed as environment variables. You can get the effect of having a Eureka service right now, though, by using Cloud Foundry&amp;rsquo;s &lt;code&gt;cf&lt;/code&gt; CLI &lt;a href="http://docs.pivotal.io/pivotalcf/devguide/services/user-provided.html"&gt;to create &lt;em&gt;a user-provided service&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint"&gt;cf cups eureka-service -p &amp;#39;{&amp;quot;uri&amp;quot;:&amp;quot;http://host-of-your-eureka-setup&amp;quot;}&amp;#39;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Point &lt;code&gt;host-of-your-eureka-setup&lt;/code&gt; to a well-known host for your highly-available Eureka setup. I suspect we&amp;rsquo;ll soon see a way to create Eureka as a backing service in the same way you might a PostgreSQL or ElasticSearch instance on &lt;a href="http://www.pivotal.io/platform-as-a-service/pivotal-cf"&gt;Pivotal Cloud Foundry&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Now that Eureka is up and running, let&amp;rsquo;s use it to connect some services to each other!&lt;/p&gt;&lt;h2&gt;&lt;a href="#speak-for-yourself" class="anchor" name="speak-for-yourself"&gt;&lt;/a&gt;Speak for Yourself&lt;/h2&gt;&lt;p&gt;Spring Cloud-based services have a &lt;code&gt;spring.application.name&lt;/code&gt; property. It&amp;rsquo;s used to pull down configuration from the Configuration server, to identify the service to Eureka, and is referenceable in numerous other contexts when building Spring Cloud-based applications. This value typically lives in &lt;code&gt;src/main/resources/bootstrap.(yml,properties)&lt;/code&gt;, which is picked up earlier in the initialization than the normal &lt;code&gt;src/main/resources/application.(yml,properties)&lt;/code&gt;. A service with &lt;code&gt;org.springframework.cloud:spring-cloud-starter-eureka&lt;/code&gt; on the classpath will be registered with the Eureka registry by its &lt;code&gt;spring.application.name&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;The &lt;code&gt;src/main/resources/boostrap.yml&lt;/code&gt; file for each of my services looks like this, where &lt;code&gt;my-service&lt;/code&gt; is the service name that changes from service to service:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint yaml"&gt;spring:&#xD;
+  application:&#xD;
+    name: my-service
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Spring Cloud uses the information in &lt;code&gt;bootstrap.yml&lt;/code&gt; at service startup to discover the Eureka service registry and register the service and its &lt;code&gt;spring.application.name&lt;/code&gt;, host, port, etc. You might wonder about that first bit. Spring Cloud attempts to look for it at a well-known address (&lt;code&gt;http://127.0.0.1:&lt;/code&gt;), but you can change that. Here&amp;rsquo;s my &lt;code&gt;src/main/resources/application.yml&lt;/code&gt; for a nominal Spring Cloud microservice, though &lt;a href="https://spring.io/blog/2015/01/13/configuring-it-all-out-or-12-factor-app-style-configuration-with-spring"&gt;there&amp;rsquo;s no reason this couldn&amp;rsquo;t live in the Spring Cloud configuration server&lt;/a&gt;. There may be many instances identifying themselves as &lt;code&gt;my-service&lt;/code&gt;; Eureka will append the process&amp;rsquo; information to a list of registrations for the same ID.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint yml"&gt;&lt;br/&gt;&lt;br/&gt;eureka:&#xD;
+  client:&#xD;
+    serviceUrl:&#xD;
+      defaultZone: ${vcap.services.eureka-service.credentials.uri:http://127.0.0.1:8761}/eureka/&#xD;
+&#xD;
+---&#xD;
+spring:&#xD;
+  profiles: cloud&#xD;
+eureka:&#xD;
+  instance:&#xD;
+    hostname: ${APPLICATION_DOMAIN}&#xD;
+    nonSecurePort: 80&#xD;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In this configuration, the Spring Cloud Eureka client knows to connect to the Eureka instance running on localhost &lt;em&gt;if&lt;/em&gt; Cloud Foundry&amp;rsquo;s &lt;code&gt;VCAP_SERVICES&lt;/code&gt; environment variable doesn&amp;rsquo;t exist or contain valid credentials.&lt;/p&gt;&lt;p&gt;The bit of configuration under the &lt;code&gt;---&lt;/code&gt; delimiter is for when the application &lt;a href="http://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-profiles.html"&gt;is run under the &lt;code&gt;cloud&lt;/code&gt; Spring profile&lt;/a&gt;. It&amp;rsquo;s easy to set a profile using the &lt;code&gt;SPRING_PROFILES_ACTIVE&lt;/code&gt; environment variable. You can configure Cloud Foundry environment variables in your &lt;code&gt;manifest.yml&lt;/code&gt; or, &lt;a href="https://github.com/pivotal-cf-experimental/lattice"&gt;on Cloud Foundry Lattice&lt;/a&gt;, your &lt;a href="https://docs.docker.com/reference/builder/"&gt;Docker file&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The &lt;code&gt;cloud&lt;/code&gt; profile specific configuration specifically tells the Eureka client how to register the service in the discovered Eureka registry. I do this because my services don&amp;rsquo;t use fixed DNS. &lt;code&gt;APPLICATION_DOMAIN&lt;/code&gt; is an environment variable I set in my deploy scripts that tells a service what its externally referenceable URI is.&lt;/p&gt;&lt;p&gt;Click refresh on the Eureka web UI after 30 seconds (as of this writing) and you&amp;rsquo;ll see your web service(s) registered.&lt;/p&gt;&lt;h2&gt;&lt;a href="#client-side-load-balancing-with-ribbon" class="anchor" name="client-side-load-balancing-with-ribbon"&gt;&lt;/a&gt;Client-Side Load Balancing with Ribbon&lt;/h2&gt;&lt;p&gt;Spring Cloud references other services through their &lt;code&gt;spring.application.name&lt;/code&gt; value. Knowing this value can be handy in a lot of contexts when building Spring Cloud-based services.&lt;/p&gt;&lt;p&gt;The goal, you&amp;rsquo;ll recall, is to let the &lt;em&gt;client&lt;/em&gt; decide based on contextual information (which could change from client to client) which service instance it will connect to. Netflix has a Eureka-aware client-side load-balancing client called &lt;a href="https://github.com/Netflix/ribbon"&gt;Ribbon&lt;/a&gt; that Spring Cloud integrates extensively. Ribbon is a client library with built-in software load balancers. Let&amp;rsquo;s look at an example that uses Eureka directly and then uses it through the Ribbon and Spring Cloud integration.&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;package passport;&#xD;
+&#xD;
+import org.springframework.beans.factory.annotation.Autowired;&#xD;
+import org.springframework.boot.CommandLineRunner;&#xD;
+import org.springframework.boot.autoconfigure.SpringBootApplication;&#xD;
+import org.springframework.boot.builder.SpringApplicationBuilder;&#xD;
+import org.springframework.cloud.client.ServiceInstance;&#xD;
+import org.springframework.cloud.client.discovery.DiscoveryClient;&#xD;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;&#xD;
+import org.springframework.cloud.netflix.feign.FeignConfiguration;&#xD;
+import org.springframework.context.annotation.Bean;&#xD;
+import org.springframework.core.ParameterizedTypeReference;&#xD;
+import org.springframework.http.HttpMethod;&#xD;
+import org.springframework.http.ResponseEntity;&#xD;
+import org.springframework.stereotype.Component;&#xD;
+import org.springframework.web.bind.annotation.PathVariable;&#xD;
+import org.springframework.web.bind.annotation.RequestMapping;&#xD;
+import org.springframework.web.bind.annotation.RequestMethod;&#xD;
+import org.springframework.web.client.RestTemplate;&#xD;
+&#xD;
+import java.util.List;&#xD;
+&#xD;
+@SpringBootApplication&#xD;
+@EnableEurekaClient&#xD;
+public class Application extends FeignConfiguration {&#xD;
+&#xD;
+  public static void main(String[] args) {&#xD;
+    new SpringApplicationBuilder(Application.class)&#xD;
+    .web(false)&#xD;
+    .run(args);&#xD;
+  }&#xD;
+&#xD;
+  @Bean&#xD;
+  BookmarkClient bookmarkClient() {&#xD;
+    return loadBalance(BookmarkClient.class, &amp;quot;http://bookmark-service&amp;quot;);&#xD;
+  }&#xD;
+}&#xD;
+&#xD;
+@Component&#xD;
+class DiscoveryClientExample implements CommandLineRunner {&#xD;
+&#xD;
+  @Autowired&#xD;
+  private DiscoveryClient discoveryClient;&#xD;
+&#xD;
+  @Override&#xD;
+  public void run(String... strings) throws Exception {&#xD;
+    List&amp;lt;ServiceInstance&amp;gt; photoServices = discoveryClient.getInstances(&amp;quot;photo-service&amp;quot;);&#xD;
+    photoServices.forEach(System.out::println);&#xD;
+&#xD;
+    List&amp;lt;ServiceInstance&amp;gt; bookmarkServices = discoveryClient.getInstances(&amp;quot;bookmark-service&amp;quot;);&#xD;
+    bookmarkServices.forEach(System.out::println);&#xD;
+  }&#xD;
+}&#xD;
+&#xD;
+@Component&#xD;
+class RestTemplateExample implements CommandLineRunner {&#xD;
+&#xD;
+  @Autowired&#xD;
+  private RestTemplate restTemplate;&#xD;
+&#xD;
+  @Override&#xD;
+  public void run(String... strings) throws Exception {&#xD;
+    // use the &amp;quot;smart&amp;quot; Eureka-aware RestTemplate&#xD;
+    ResponseEntity&amp;lt;List&amp;lt;Bookmark&amp;gt;&amp;gt; exchange = this.restTemplate.exchange(&#xD;
+      &amp;quot;http://bookmark-service/{userId}/bookmarks&amp;quot;, HttpMethod.GET, null,&#xD;
+      new ParameterizedTypeReference&amp;lt;List&amp;lt;Bookmark&amp;gt;&amp;gt;() {}, (Object) &amp;quot;mstine&amp;quot;);&#xD;
+&#xD;
+    exchange.getBody().forEach(System.out::println);&#xD;
+  }&#xD;
+}&#xD;
+&#xD;
+@Component&#xD;
+class FeignExample implements CommandLineRunner {&#xD;
+&#xD;
+  @Autowired&#xD;
+  private BookmarkClient bookmarkClient;&#xD;
+&#xD;
+  @Override&#xD;
+  public void run(String... strings) throws Exception {&#xD;
+    this.bookmarkClient.getBookmarks(&amp;quot;jlong&amp;quot;).forEach(System.out::println);&#xD;
+  }&#xD;
+}&#xD;
+&#xD;
+interface BookmarkClient {&#xD;
+&#xD;
+  @RequestMapping(method = RequestMethod.GET, value = &amp;quot;/{userId}/bookmarks&amp;quot;)&#xD;
+  List&amp;lt;Bookmark&amp;gt; getBookmarks(@PathVariable(&amp;quot;userId&amp;quot;) String userId);&#xD;
+}&#xD;
+&#xD;
+class Bookmark {&#xD;
+  private Long id;&#xD;
+  private String href, label, description, userId;&#xD;
+&#xD;
+  @Override&#xD;
+  public String toString() {&#xD;
+    return &amp;quot;Bookmark{&amp;quot; +&#xD;
+    &amp;quot;id=&amp;quot; + id +&#xD;
+    &amp;quot;, href=&amp;#39;&amp;quot; + href + &amp;#39;\&amp;#39;&amp;#39; +&#xD;
+    &amp;quot;, label=&amp;#39;&amp;quot; + label + &amp;#39;\&amp;#39;&amp;#39; +&#xD;
+    &amp;quot;, description=&amp;#39;&amp;quot; + description + &amp;#39;\&amp;#39;&amp;#39; +&#xD;
+    &amp;quot;, userId=&amp;#39;&amp;quot; + userId + &amp;#39;\&amp;#39;&amp;#39; +&#xD;
+    &amp;#39;}&amp;#39;;&#xD;
+  }&#xD;
+&#xD;
+  public Bookmark() {&#xD;
+  }&#xD;
+&#xD;
+  public Long getId() {&#xD;
+    return id;&#xD;
+  }&#xD;
+&#xD;
+  public String getHref() {&#xD;
+    return href;&#xD;
+  }&#xD;
+&#xD;
+  public String getLabel() {&#xD;
+    return label;&#xD;
+  }&#xD;
+&#xD;
+  public String getDescription() {&#xD;
+    return description;&#xD;
+  }&#xD;
+&#xD;
+  public String getUserId() {&#xD;
+    return userId;&#xD;
+  }&#xD;
+}&#xD;
+&#xD;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The &lt;code&gt;DiscoveryClientExample&lt;/code&gt; bean demonstrates using the Spring Cloud common &lt;code&gt;DiscoveryClient&lt;/code&gt; to interrogate the services. The results contain information like the hostname and the port for each service.&lt;/p&gt;&lt;p&gt;The &lt;code&gt;RestTemplateExample&lt;/code&gt; bean demonstrates the auto-configured Ribbon-aware &lt;code&gt;RestTemplate&lt;/code&gt; instance. Note that the URI uses a service ID, not an actual hostname. The service ID from the URI is extracted and given to Ribbon which then uses a load-balancer to pick from among the registered instances in Eureka and, finally, the HTTP call is made to a real service instance.&lt;/p&gt;&lt;p&gt;The &lt;code&gt;FeignExample&lt;/code&gt; bean demonstrates using the Spring Cloud Feign integration. &lt;a href="https://github.com/Netflix/feign"&gt;Feign&lt;/a&gt; is a handy project from Netflix that lets you describe a REST API client declaratively with annotations on an interface. In this case, we want to map the HTTP results from calls to the &lt;code&gt;bookmark-service&lt;/code&gt; to the &lt;code&gt;BookmarkClient&lt;/code&gt; Java interface. This mapping is configured in the &lt;code&gt;Application&lt;/code&gt; class towards the top of the code page:&lt;/p&gt;
+&lt;pre&gt;&lt;code class="prettyprint java"&gt;  @Bean&#xD;
+  BookmarkClient bookmarkClient() {&#xD;
+    return loadBalance(BookmarkClient.class, &amp;quot;http://bookmark-service&amp;quot;);&#xD;
+  }&#xD;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The URI is a service reference, not an actual hostname. It&amp;rsquo;s passed through the same processing as the URI given to the &lt;code&gt;RestTemplate&lt;/code&gt; in the last example.&lt;/p&gt;&lt;p&gt;Pretty cool, eh? You can use the more basic &lt;code&gt;DiscoveryClient&lt;/code&gt; API and make a call, or use the Ribbon and Eureka-aware &lt;code&gt;RestTemplate&lt;/code&gt; or Feign-integrated client.&lt;/p&gt;&lt;h2&gt;&lt;a href="#review" class="anchor" name="review"&gt;&lt;/a&gt;Review&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Spring Cloud supports both the Eureka and Consul service registries (and perhaps more!)&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;DiscoveryClient&lt;/code&gt; API can be used to interactively query Eureka given a service ID.&lt;/li&gt;
+  &lt;li&gt;Ribbon is a client-side load balancer&lt;/li&gt;
+  &lt;li&gt;The &lt;code&gt;RestTemplate&lt;/code&gt; can substitute service IDs for hostnames in URIs and can defer to Ribbon to pick a service.&lt;/li&gt;
+  &lt;li&gt;The Netflix Spring Cloud Feign integration makes it simple to create smart, Eureka-aware REST clients that uses Ribbon for client-side load-balacing to pick an available service instance.&lt;/li&gt;
+&lt;/ul&gt;&lt;h2&gt;&lt;a href="#where-to-go-from-here" class="anchor" name="where-to-go-from-here"&gt;&lt;/a&gt;Where to go from Here&lt;/h2&gt;&lt;p&gt;We&amp;rsquo;ve only looked at service discovery and resolution with Eureka. Most of what we talked about here applies to Consul as well and indeed Consul has some features that Netflix doesn&amp;rsquo;t have.&lt;/p&gt;&lt;p&gt;Round-robin load-balancing is just one option. You might instead require some notion of a leader node, and leadership election. Spring Cloud aims provides support for that kind of coordination, as well.&lt;/p&gt;&lt;p&gt;Service registration and client-side load-balancing are just &lt;em&gt;one&lt;/em&gt; of the things that Spring Cloud does to promote more resilient service-to-service calls. We have &lt;em&gt;not&lt;/em&gt; looked at its support single-sign on and security, distributed locks and leadership election, reliability patterns like the circuit breaker, and much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://github.com/joshlong/service-registration-and-discovery"&gt;The example code is all available online&lt;/a&gt; so don&amp;rsquo;t hesitate to the check out the example on your local machine or push it to Cloud Foundry using &lt;a href="https://github.com/joshlong/service-registration-and-discovery/blob/master/cf.sh"&gt;the provided &lt;code&gt;cf.sh&lt;/code&gt; script&lt;/a&gt; and various &lt;code&gt;manifest.yml&lt;/code&gt; files.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Spring 4 Web Applications</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/springone2gx-2014-replay-spring-4-web-applications" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-09:1924</id>
+    <updated>2015-01-20T01:10:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014.&lt;/p&gt;
+&lt;p&gt;Speaker: Rossen Stoyanchev &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/s2gx2014-spring4webapps"&gt;http://www.slideshare.net/SpringCentral/s2gx2014-spring4webapps&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Web / JavaScript Track &lt;/p&gt;
+&lt;p&gt;The Web and Spring MVC continue to be one of the most active areas of the Spring Framework with each new release adding plenty of features and refinements requested by the community. Furthermore version 4 added a significant choice for web applications to build WebSocket-style architectures. This talk provides an overview of the areas in which the framework has evolved along with highlights of specific noteworthy features from the most recent releases. &lt;/p&gt;
+&lt;p&gt;&#xD;
+  &lt;iframe width="560" height="315" src="//www.youtube.com/embed/yxKJsgNYDQI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
+&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Cassandra, Couchbase and Spring Data in the Enterprise</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/springone2gx-2014-replay-cassandra-couchbase-and-spring-data-in-the-enterprise" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-09:1923</id>
+    <updated>2015-01-20T01:07:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speakers: Matthew Adams (SCI Spike), Michael Nitschinger (Couchbase) &lt;/p&gt;
+&lt;p&gt;Data / Integration Track &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/cassandra-couchbase-andspringdataintheenterprise"&gt;http://www.slideshare.net/SpringCentral/cassandra-couchbase-andspringdataintheenterprise&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; Spring Data Cassandra brings Cassandra support to the Spring Data umbrella of projects, offering Spring Data's familiar Repository concepts &amp;amp; POJO persistence. This talk will focus first on POJO persistence over Cassandra, including automatic Cassandra schema generation and Spring context configuration using both XML &amp;amp; Java. Then, the talk will dig deeper into some of the lower-level features that Spring Data Cassandra is built upon (AKA &amp;quot;Spring CQL&amp;quot;), which make plain, old Cassandra development simpler &amp;amp; easier. Couchbase Server is well-known as one of the leaders in the NoSQL space, heavily used in enterprises and startups alike where low latency even at hundreds of thousands of operations per seconds matters. This talk will not only give a short introduction about the benefits of adopting Couchbase, but also show how to integrate it into your Java Enterprise landscape through its support for Spring Data. You will learn how to fully control your database schema from the application through entities and repositories, how to deploy new application versions or scale out your cluster without a single second of downtime and also how to integrate easily with elasticsearch.&lt;/p&gt;&lt;p&gt;&lt;pre&gt;&lt;iframe width="560" height="315" src="//www.youtube.com/embed/LkDb2dZyoTk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/pre&gt;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Applications of Enterprise Integration Patterns to Near-Real Time Radar Data Processing</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/springone2gx-2014-replay-applications-of-enterprise-integration-patterns-to-near-real-time-radar-data-processing" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-09:1922</id>
+    <updated>2015-01-20T00:58:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speaker: Garrett Wampole, MITRE&lt;/p&gt;
+&lt;p&gt; Data / Integration Track &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/applications-of-enterprise-integration-patterns-to-nearreal-time-radar-data-processing"&gt;http://www.slideshare.net/SpringCentral/applications-of-enterprise-integration-patterns-to-nearreal-time-radar-data-processing &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Enterprise Integration Patterns, a set of software design concepts described in a book by Gregor Hohpe and Bobby Woolf and implemented in software by the Spring Integration project, are traditionally applied in the application domains such as business intelligence, supply chain management, and customer relationship management. The topic of this presentation is to describe an experimental methodology of applying Enterprise Integration Patterns to the near-real time processing of surveillance radar data and the engineering trade-offs encountered in the areas of development, deployment, operation, and analysis of ground-based surveillance radar systems with a focus on the Modular Experimental Radar program developed by MITRE for its sponsors.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;pre&gt;&lt;iframe width="560" height="315" src="//www.youtube.com/embed/iL83KYHapbQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/pre&gt;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Deep dive into Spring WebSockets</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/20/springone2gx-2014-replay-deep-dive-into-spring-websockets" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-09:1921</id>
+    <updated>2015-01-20T00:55:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speaker: Sergi Almar &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/deep-dive-intospringwebsockets-sergialmarspringone2gx2014"&gt;http://www.slideshare.net/SpringCentral/deep-dive-intospringwebsockets-sergialmarspringone2gx2014 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Web / JavaScript Track &lt;/p&gt;
+&lt;p&gt;WebSocket support has been part of Spring since 4.0. In this session we'll review the architecture behind it and we'll try to show how to build highly scalable websocket based applications. We will also cover the new features in Spring 4.1, the new Spring Security 4 support for WebSockets and the different testing approaches. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;pre&gt;&lt;iframe width="560" height="315" src="//www.youtube.com/embed/oCAC2yow8xk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/pre&gt;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Spring Roo 1.3.1 RC2 Available Now</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/19/spring-roo-1-3-1-rc2-available-now" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-19:1937</id>
+    <updated>2015-01-19T15:36:00Z</updated>
+    <content type="html">&lt;p&gt;Spring Roo 1.3.1 RC2 Available Now&lt;/p&gt;
+&lt;p&gt; On behalf on the Spring Roo team at &lt;a href="http://www.disid.com/"&gt;Disid Corp&lt;/a&gt;, I am pleased to announce the 1.3.1 RC2 Release Candidate is out.&lt;/p&gt;
+&lt;p&gt; Spring Roo jar files have been published to Maven Central. &lt;/p&gt;
+&lt;p&gt;As always, the release is available in the Spring IO repository. &lt;/p&gt;
+&lt;p&gt;The candidate release fixes the following issues:&lt;/p&gt;
+&lt;ul&gt;&#xD;
+  &lt;li&gt;  NullPointerException at WarPackaging [&lt;a href="https://jira.spring.io/browse/ROO-3566"&gt;ROO-3566&lt;/a&gt;]&lt;/li&gt;&#xD;
+  &lt;li&gt;  NullPointerException when run dbre [&lt;a href="https://jira.spring.io/browse/ROO-3567"&gt;ROO-3567&lt;/a&gt;]&lt;/li&gt;&#xD;
+  &lt;li&gt; Cannot uninstall or update any osgi bundles [&lt;a href="https://jira.spring.io/browse/ROO-3573"&gt;ROO-3573&lt;/a&gt;]&lt;/li&gt;&#xD;
+  &lt;li&gt; NullPointerException when create repository mongodb [&lt;a href="https://jira.spring.io/browse/ROO-3574"&gt;ROO-3574&lt;/a&gt;]&lt;/li&gt;&#xD;
+  &lt;li&gt; Roo commands allows to create two entities with the same name [&lt;a href="https://jira.spring.io/browse/ROO-3580"&gt;ROO-3580&lt;/a&gt;]&lt;/li&gt;&#xD;
+  &lt;li&gt; Focus set on non existing class [&lt;a href="https://jira.spring.io/browse/ROO-3581"&gt;ROO-3581&lt;/a&gt;]&lt;/li&gt;&#xD;
+  &lt;li&gt; Error adding InnerType constructor on ITD Generation [&lt;a href="https://jira.spring.io/browse/ROO-3583"&gt;ROO-3583&lt;/a&gt;]&lt;/li&gt;&#xD;
+  &lt;li&gt; JavaBean implementing Interface defining getters and setters [&lt;a href="https://jira.spring.io/browse/ROO-3584"&gt;ROO-3584&lt;/a&gt;]&lt;/li&gt;&#xD;
+  &lt;li&gt; JavaBean implementing Interface and overriding getter causing null pointer [&lt;a href="https://jira.spring.io/browse/ROO-3585"&gt;ROO-3585&lt;/a&gt;]&lt;/li&gt;&#xD;
+&lt;/ul&gt;
+&lt;p&gt;It is recommended that all Spring Roo users upgrade to this version. &lt;/p&gt;
+&lt;p&gt;For full details on the changes made in the release, please refer to the [&lt;a href="https://jira.spring.io/secure/ReleaseNote.jspa?projectId=10340&amp;version=14870"&gt;Release Notes in Jira&lt;/a&gt;] &lt;/p&gt;
+&lt;p&gt;For more project specific information please see the [&lt;a href="http://projects.spring.io/spring-roo/"&gt;Project Page&lt;/a&gt;] | [&lt;a href="https://github.com/spring-projects/spring-roo"&gt;GitHub&lt;/a&gt;] &lt;/p&gt;
+&lt;p&gt;Thanks to the awesome users who came up with useful bug reports and suggestions. This is a candidate release, please try out the updates and provide feedback. As always, you'll also find Roo on Twitter - either follow &lt;a href="https://www.twitter.com/springroo"&gt;@SpringRoo&lt;/a&gt; or just include #SpringRoo in your tweets. &lt;/p&gt;
+&lt;p&gt;Our current plan is to go 1.3.1.RELEASE in late january. Stay tuned!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Spring Tool Suite and Groovy/Grails Tool Suite 3.6.3.SR1 released</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/19/spring-tool-suite-and-groovy-grails-tool-suite-3-6-3-sr1-released" />
+    <category term="releases" label="Releases" />
+    <author>
+      <name>Martin Lippert</name>
+    </author>
+    <id>tag:spring.io,2015-01-19:1935</id>
+    <updated>2015-01-19T13:09:42Z</updated>
+    <content type="html">&lt;p&gt;Dear Spring Community,&lt;/p&gt;&lt;p&gt;We have released a minor service release for STS/GGTS 3.6.3 on Eclipse 4.4.1 to address a&lt;br/&gt;security vulnerability that was found in the JGit client. More details on this can be found here:&lt;br/&gt;&lt;a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=456947"&gt;JGit client (CVE-2014-9390)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;To download the updated distributions, please go visit:&lt;/p&gt;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Spring Tool Suite: &lt;a href="https://spring.io/tools/sts/all"&gt;https://spring.io/tools/sts/all&lt;/a&gt;&lt;/li&gt;&#xD;
+&lt;li&gt;Groovy/Grails Tool Suite: &lt;a href="https://spring.io/tools/ggts/all"&gt;https://spring.io/tools/ggts/all&lt;/a&gt;&lt;/li&gt;&#xD;
+&lt;/ul&gt;&lt;p&gt;Detailed new and noteworthy notes can be found here: &lt;a href="http://docs.spring.io/sts/nan/v363sr1/NewAndNoteworthy.html"&gt;STS/GGTS 3.6.3.SR1 New &amp;amp; Noteworthy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;STS/GGTS 3.6.4 is scheduled to ship in March 2015, shortly after the Eclipse Luna SR2 release.&lt;/p&gt;&lt;p&gt;Enjoy!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Webinar Replay: Building Scalable Data Applications with Spring and GemFire</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/19/webinar-replay-building-scalable-data-applications-with-spring-and-gemfire" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-19:1936</id>
+    <updated>2015-01-19T10:31:00Z</updated>
+    <content type="html">&lt;p&gt;Webinar: Building Scalable Data Applications with Spring and GemFire &lt;/p&gt;
+&lt;p&gt;Speakers: Luke Shannon, Pivotal &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/building-scalable-web-applications-with-spring-data-gemfire"&gt;http://www.slideshare.net/SpringCentral/building-scalable-web-applications-with-spring-data-gemfire&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GemFire is Pivotal's distributed In Memory Data grid. In this session we will cover simplifying configuring a GemFire grid using Spring Data GemFire, and explore how data is dynamically distributed and made highly available as the grid resources are increased or decreased to meet increased client demand. GemFire access and testing patterns using Spring will be reviewed in detail.  We will walk through creating a domain object and using Spring Data GemFire Repositories to perform CRUD operations on a GemFire grid, creating a Spring MVC/Spring Boot application that uses GemFire as its persistence layer, review how Spring Boot and Spring Data GemFire can be used to help with GemFire test cases and how Spring Data GemFire can make creation and execution of GemFire functions easier. We will also explore how Spring XD can be used to load and monitor data changes in the grid. This will be a hands on, code oriented session.&lt;/p&gt;
+&lt;p&gt; &lt;iframe width="420" height="315" src="//www.youtube.com/embed/HvqLJSZoEJ0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Spring Batch and Spring Batch Admin Releases</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/16/spring-batch-and-spring-batch-admin-releases" />
+    <category term="releases" label="Releases" />
+    <author>
+      <name>Michael Minella</name>
+    </author>
+    <id>tag:spring.io,2015-01-16:1933</id>
+    <updated>2015-01-16T15:39:00Z</updated>
+    <content type="html">&lt;p&gt;We are pleased to announce a number of Spring Batch related releases today.  A bug fix release for Spring Batch, a bug fix release for Spring Batch Admin and a milestone release for the new version of Spring Batch Admin are all now available.&lt;/p&gt;
+&lt;h2&gt;Spring Batch 3.0.3&lt;/h2&gt;
+&lt;p&gt;Spring Batch 3.0.3 represents the latest maintenance release for Spring Batch, addressing a number of enhancements and minor bug fixes.  New features in Spring Batch 3.0.3 include:&lt;/p&gt;
+&lt;h3&gt;Improved Support For JSR-352 Custom Infrastructures&lt;/h3&gt;
+&lt;p&gt;Before this release, the only way to override the infrastructure provided by Spring Batch out of the box for JSR-352 configured jobs was to include the configuration in the job's context.  This prevented the ability to configure a global override for really shared components.  With 3.0.3, you can now specify the location of a Spring configuration via a System property that can override the existing infrastructure.&lt;/p&gt;
+&lt;h3&gt;Optional Polling For Partitioned Results&lt;/h3&gt;
+&lt;p&gt;When using remote partitioning, the master needs a way to be notified that the slave partitions have completed their work.  Historically that has been accomplished by each slave replying to the master, the results being aggregated, and then the master being notified that all the slaves have completed.  However, this required extra configuration that may not be necessary.  Since the slaves in a partitioned job maintain their state in the same job repository that the master does, the master can just poll the job repository to see if the slaves are complete.  This release adds the ability to configure the &lt;code&gt;MessageChannelPartitionHandler&lt;/code&gt; to poll the job repository instead of waiting for response messages.  You can read more about the configuration of this new feature in the documentation for the &lt;a href="http://docs.spring.io/spring-batch/trunk/apidocs/org/springframework/batch/integration/partition/MessageChannelPartitionHandler.html"&gt;&lt;code&gt;MessageChannelPartitionHandler&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This isn't a complete list of updates, but highlight the major new features.  You can see exactly what changed in Spring Batch's Jira issue tracker here: &lt;a href="https://jira.spring.io/browse/BATCH/"&gt;https://jira.spring.io/browse/BATCH/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Spring Batch Admin&lt;/h2&gt;
+&lt;h3&gt;1.3.1&lt;/h3&gt;
+&lt;p&gt;The first of two Spring Batch Admin releases we are making available today is the first maintenance release for the Spring Batch Admin 1.3 line.  This release addresses a number of minor bugs, the list of which can be found in Jira here: &lt;a href="https://jira.spring.io/browse/BATCHADM/"&gt;https://jira.spring.io/browse/BATCHADM/&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;2.0.0.M1&lt;/h3&gt;
+&lt;p&gt;The biggest question I received at SpringOne2GX this past year was "What's going on with Spring Batch Admin?"  Spring Batch Admin had its last update in July (shortly before SpringOne2GX last year), but it wasn't much of a feature upgrade.  It was released to update the dependencies and address some bugs.  Since then, we've been hard at work updating a number of features to bring Spring Batch Admin up to date.  Today we announce the first milestone towards that goal.&lt;/p&gt;
+&lt;h4&gt;JSR-352 Support&lt;/h4&gt;
+&lt;p&gt;Spring Batch Admin, as part of the 2.0.0.M1 release, will now support JSR-352 configured jobs.  By dropping your XML based configuration in the &lt;code&gt;/META-INF/batch-jobs&lt;/code&gt; directory as the spec requires, Spring Batch Admin will load the job to be launchable by the REST endpoints and the current UI.  All of the monitoring aspects provided by Spring Batch Admin (viewing the executions, start/stop/restart, etc) are available.&lt;/p&gt;
+&lt;h4&gt;Java Configuration Support&lt;/h4&gt;
+&lt;p&gt;As the shift within the Spring community has been going from XML based configuration to java based configuration, Spring Batch Admin is keeping up.  As of this release, Spring Batch Admin supports the configuration of a package to scan for java configured Spring Batch jobs.  As with any other batch jobs, these will be loaded and available for execution just like their XML counterparts.&lt;/p&gt;
+&lt;p&gt;It's important to note, that while Spring Batch Admin now supports java based configuration, you won't want to use &lt;code&gt;@EnableBatchProcessing&lt;/code&gt; with it.  There's a reason for that.  &lt;code&gt;@EnableBatchProcessing&lt;/code&gt; provides a collection of infrastructure that is already provided out of the box by Spring Batch Admin.  Configuring jobs via java config for use within Spring Batch Admin is exactly the same as if you were using &lt;code&gt;@EnableBatchProcessing&lt;/code&gt;...without using that annotation.  You still get the ability to autowire the &lt;code&gt;JobBuilderFactory&lt;/code&gt; and &lt;code&gt;StepBuilderFactory&lt;/code&gt; just like you normally would.&lt;/p&gt;
+&lt;h4&gt;REST Endpoint Updates&lt;/h4&gt;
+&lt;p&gt;As part of the work the Spring XD team has been doing in their administration UI, they have created a completely new set of batch related REST endpoints.  This release migrates those endpoints into Spring Batch Admin for all to consume.  Off of the &lt;code&gt;/batch&lt;/code&gt; path lives a collection of endpoints that provide functionality similar to the existing REST API, however goes much further.  The new API follows HATEOAS principles allowing for API discovery and traversal.  While the support of HATEOAS is a work in progress, this release provides a look into where we're going with this.&lt;/p&gt;
+&lt;h4&gt;The Future of Spring Batch Admin&lt;/h4&gt;
+&lt;p&gt;Like all of the Spring projects, we strive to make things backwards compatible as much as reasonable possible.  Because of that, Spring Batch Admin 2.0 is undergoing some major changes to allow backwards compatibility in the future.  These changes include, the removal of an "official" UI, and deprecation of the older version of the REST API.  &lt;em&gt;This release does not contain any of these changes.&lt;/em&gt;  These changes will be coming before Spring Batch Admin 2.0 is generally available.  It is our desire to be open and transparent as to the direction of the project.&lt;/p&gt;
+&lt;p&gt;Anyone that has followed the rate of change in the UI space over the past few years can quickly discern that picking a modern front-end technology and being able to maintain backwards compatibility for the foreseeable future is not possible right now.  The rate of breaking changes is just too great right now.  When factoring this into our desire to provide tools at the forefront of their related space, we've decided to remove the UI as a formal part of the project.  That being said, we still understand that a client is an important piece of what Spring Batch Admin brings to the table.  Because of this, it is our plan to provide a collection of sample projects that demonstrate a couple different client options.  This will allow us to evolve client options independently of the core framework/API in a way that doesn't prevent us from being backwards compatible.&lt;/p&gt;
+&lt;p&gt;We will also be deprecating the older version of the REST API.  The new API takes a step forward in the REST API maturity model, moving from basic CRUD over HTTP to support for true resources.  While the new REST endpoints are still a work in progress, once they are feature complete, we will deprecate the old ones to focus development efforts on improving and evolving the new set.&lt;/p&gt;
+&lt;h3&gt;Where We Go From Here&lt;/h3&gt;
+&lt;p&gt;We will continue to work on the changes mentioned above and currently plan on another release early in the second quarter of this year.  We are excited about the future of Spring Batch Admin and look forward to your feedback in &lt;a href="https://jira.spring.io/browse/BATCH/"&gt;Jira&lt;/a&gt;, &lt;a href="https://github.com/spring-projects/spring-batch"&gt;Github&lt;/a&gt;, &lt;a href="http://stackoverflow.com/tags/spring-batch/info"&gt;StackOverflow&lt;/a&gt;, and social media!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Spring IO Platform 1.1.1 released</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/15/spring-io-platform-1-1-1-released" />
+    <category term="releases" label="Releases" />
+    <author>
+      <name>Andy Wilkinson</name>
+    </author>
+    <id>tag:spring.io,2015-01-15:1931</id>
+    <updated>2015-01-15T16:51:46Z</updated>
+    <content type="html">&lt;p&gt;We are pleased to announce that &lt;a href="http://platform.spring.io/platform"&gt;Spring IO Platform&lt;/a&gt; 1.1.1.RELEASE is now available from both &lt;a href="http://repo.spring.io/release"&gt;repo.spring.io&lt;/a&gt; and &lt;a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3Aio.spring.platform"&gt;Maven Central&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;The main highlight of this release is the addition of &lt;a href="https://spring.io/blog/2015/01/08/spring-session-1-0-0-release"&gt;Spring Session 1.0.0.RELEASE&lt;/a&gt; to the Platform.&lt;/p&gt;&lt;p&gt;In addition, this release also upgrades the versions of a number of the projects to pick up their latest maintenance releases:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Spring AMQP 1.4.2.RELEASE&lt;/li&gt;
+  &lt;li&gt;Spring Boot 1.2.1.RELEASE&lt;/li&gt;
+  &lt;li&gt;Spring Framework 4.1.4.RELEASE&lt;/li&gt;
+  &lt;li&gt;Spring Integration 4.1.2.RELEASE&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The versions of many third-party dependencies have also been updated.&lt;/p&gt;&lt;p&gt;&lt;a href="http://platform.spring.io/platform"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-io/platform"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-io/platform/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://docs.spring.io/platform/docs/1.1.1.RELEASE/reference/htmlsingle"&gt;Documentation&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SpringOne2GX 2014 Replay: Spring Integration - Java Configuration and More</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/01/14/springone2gx-2014-replay-spring-integration-java-configuration-and-more" />
+    <category term="news" label="News and Events" />
+    <author>
+      <name>Pieter Humphrey</name>
+    </author>
+    <id>tag:spring.io,2015-01-09:1920</id>
+    <updated>2015-01-14T01:28:00Z</updated>
+    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
+&lt;p&gt;Speaker: Gary Russell &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/spring-one2gx-2014integration-41083190"&gt;http://www.slideshare.net/SpringCentral/spring-one2gx-2014integration-41083190&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Data / Integration Track &lt;/p&gt;
+&lt;p&gt;There have been 2 major releases of Spring Integration since the last SpringOne 2GX. The 3.0 release added a number of important new components and provided extensive improvements to SpEL support enabling much richer SpEL processing. The 4.0 release added more components and extensive support for annotation-based config, reducing or even eliminating the need for XML configuration. It also laid the groundwork for the Java DSL extension. In this session we will examine many of these new features in detail. It will be mostly hands-on demonstration and code walk throughs. &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;pre&gt;&lt;iframe width="560" height="315" src="//www.youtube.com/embed/TSW33RXoJNc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/pre&gt;&lt;/p&gt;&lt;/p&gt;</content>
+  </entry>
+</feed>
+
